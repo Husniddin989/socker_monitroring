@@ -1,0 +1,14 @@
+{
+    "telegram": {
+        "bot_token": "7120243579:AAEoaMz5DK8pv1uvwmbD--Mmt8nqbhL_mec",
+        "chat_id": "-1001686130633"
+    },
+    "thresholds": {
+        "cpu_percent": 10,
+        "memory_percent": 60,
+        "disk_percent": 60
+    },
+    "check_interval": 10,
+    "alert_cooldown": 10,
+    "top_processes": 20
+}
